@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">智能醫療廢棄物伺服器管理作業系統</string>
+    <string name="title_activity_garbage">廢棄物接收站</string>
+    <string name="title_activity_sick_room">產源單位</string>
+    <string name="title_activity_new_pic">圖片上傳</string>
+    <string name="setting">設定</string>
+    <string name="server_setting">站台設定:</string>
+    <string name="confirm">確定</string>
+    <string name="cancel">取消</string>
+
+</resources>
