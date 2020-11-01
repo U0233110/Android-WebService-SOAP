@@ -66,11 +66,6 @@ public class NewPicActivity extends AppCompatActivity {
     byte[] bytes;
     String imageString = "";
     long imageSize;
-    //-----
-    private static String SOAP_ACTION2 = "http://tempuri.org/UploadFile";
-    private static String NAMESPACE = "http://tempuri.org/";
-    private static String METHOD_NAME2 = "UploadFile";
-    private static String URL = "http://123.192.50.241:1201/MwIMS/Service/Service.asmx?op=UploadFile?WSDL";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
